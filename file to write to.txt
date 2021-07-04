@@ -1,0 +1,14 @@
+Multiple Awesome 2Multiple Awesome 1/Users/sean/labs/PyPart8/test_file_reader.py/Users/sean/labs/PyPart8/tree.py/Users/sean/labs/PyPart8/file_reader.py/Users/sean/labs/PyPart8/my_awesome_file.txt/Users/sean/labs/PyPart8/README.md/Users/sean/labs/PyPart8/file to write to.txt/Users/sean/labs/PyPart8/Multiple Awesome 2/my_awesome_file copy 5.txt/Users/sean/labs/PyPart8/Multiple Awesome 2/my_awesome_file copy 2.txt/Users/sean/labs/PyPart8/Multiple Awesome 1/my_awesome_file copy 4.txt/Users/sean/labs/PyPart8/Multiple Awesome 1/my_awesome_file copy 3.txtMultiple Awesome 2
+Multiple Awesome 1
+/Users/sean/labs/PyPart8/test_file_reader.py/Users/sean/labs/PyPart8/tree.py/Users/sean/labs/PyPart8/file_reader.py/Users/sean/labs/PyPart8/my_awesome_file.txt/Users/sean/labs/PyPart8/README.md/Users/sean/labs/PyPart8/file to write to.txt/Users/sean/labs/PyPart8/Multiple Awesome 2/my_awesome_file copy 5.txt/Users/sean/labs/PyPart8/Multiple Awesome 2/my_awesome_file copy 2.txt/Users/sean/labs/PyPart8/Multiple Awesome 1/my_awesome_file copy 4.txt/Users/sean/labs/PyPart8/Multiple Awesome 1/my_awesome_file copy 3.txtMultiple Awesome 2
+Multiple Awesome 1
+/Users/sean/labs/PyPart8/test_file_reader.py
+/Users/sean/labs/PyPart8/tree.py
+/Users/sean/labs/PyPart8/file_reader.py
+/Users/sean/labs/PyPart8/my_awesome_file.txt
+/Users/sean/labs/PyPart8/README.md
+/Users/sean/labs/PyPart8/file to write to.txt
+/Users/sean/labs/PyPart8/Multiple Awesome 2/my_awesome_file copy 5.txt
+/Users/sean/labs/PyPart8/Multiple Awesome 2/my_awesome_file copy 2.txt
+/Users/sean/labs/PyPart8/Multiple Awesome 1/my_awesome_file copy 4.txt
+/Users/sean/labs/PyPart8/Multiple Awesome 1/my_awesome_file copy 3.txt
